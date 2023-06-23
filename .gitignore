@@ -1,5 +1,4 @@
 /node_modules
 .env
-API_Log.txt
 docker-compose.dev.yml
 docker-compose.yml
